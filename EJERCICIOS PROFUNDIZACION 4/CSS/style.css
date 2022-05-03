@@ -1,0 +1,22 @@
+img{
+    width: 30px;
+    height: 30px;  
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgba(187, 187, 187, 0.445);
+    background-color: #06090a;
+}
+
+#avatar{
+    width: 45px;
+    height: 45px;
+}
+
+.menu{
+    display: flex;
+    justify-content: left;
+}
